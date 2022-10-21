@@ -1,4 +1,5 @@
 {
   "name": "cave",
-  "displayName": "cave"
+  "displayName": "cave",
+  "backgroundColor": "#1e085a"
 }
